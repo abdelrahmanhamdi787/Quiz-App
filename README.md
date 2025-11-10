@@ -1,17 +1,26 @@
 # quiz
 
-A new Flutter project.
+This is a simple Quiz App that allows users to answer multiple-choice questions and see their final score. It is designed as a basic project to practice core programming concepts.
 
-## Getting Started
+Features
 
-This project is a starting point for a Flutter application.
+ - Multiple-choice questions
 
-A few resources to get you started if this is your first Flutter project:
+ - Score calculation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ - Simple and clean interface
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Quiz-App" 
+How to Use
+
+ 1.Start the app.
+
+ 2.Answer each question by selecting an option.
+
+ 3.At the end, view your total score.
+
+
+🧑‍💻 Author
+
+Abdelrahman Hamdi
+
+💼 Connect with me on LinkedIn
