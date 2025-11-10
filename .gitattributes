@@ -1,8 +1,8 @@
-*.dart linguist-detectable=true
-*.cpp linguist-detectable=false
-*.h linguist-detectable=false
-*.cc linguist-detectable=false
-*.cmake linguist-detectable=false
-CMakeLists.txt linguist-detectable=false
-*.swift linguist-detectable=false
-*.kt linguist-detectable=false
+* linguist-vendored
+*.dart linguist-vendored=false
+*.dart linguist-language=Dart
+windows/* linguist-vendored=true
+linux/* linguist-vendored=true
+macos/* linguist-vendored=true
+android/* linguist-vendored=true
+ios/* linguist-vendored=true
